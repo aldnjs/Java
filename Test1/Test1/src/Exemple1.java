@@ -23,7 +23,7 @@ public class Exemple1 {
 
         //문자가 여러개 모인 것을 문자열이라고 함
         // 문자열은 데이터타입을 char 대신 String을 사용
-        String str = "서형원";
+        String str = "서형원12";
         System.out.println(str);
 
         //boolean 타입 예제
